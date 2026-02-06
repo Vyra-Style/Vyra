@@ -1,8 +1,8 @@
-const products = [
+jpg products = [
   {
     name: "Minimal Summer Dress",
     price: 199,
-    image: "https://i.imgur.com/abcd123.jpg",
+    image: "https://www.freepik.com/free-photos-vectors/fashion-store" pg
     paymentLink: "YOUR_PAYMENT_LINK"
   },
   {
