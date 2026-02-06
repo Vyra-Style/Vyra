@@ -1,36 +1,36 @@
 /* Fonts */
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   margin: 0;
-  background-color: #FFFFFF;
-  color: #0D0D0D;
+  background-color: #fff;
+  color: #222;
 }
 
-/* Hero */
+/* Hero Section */
 .hero {
   text-align: center;
-  padding: 50px 20px;
-  background: #f9f9f9;
+  padding: 60px 20px;
+  background-color: #f5f5f5;
 }
 
 .logo {
-  font-family: 'Vogue', serif; /* Style like Vogue */
-  font-size: 48px;
+  font-family: 'Vogue', serif;
+  font-size: 50px;
   margin: 0;
 }
 
 /* Buttons */
 .btn-gold {
-  background-color: #F3E5AB;
-  color: #0D0D0D;
-  padding: 15px 30px;
+  background-color: #bfa167; /* Zara gold-like */
+  color: #fff;
+  padding: 12px 30px;
   text-decoration: none;
   font-weight: bold;
-  border-radius: 5px;
+  border-radius: 3px;
   transition: 0.3s;
 }
 .btn-gold:hover {
-  background-color: #FFDD59;
+  background-color: #d4b17a;
 }
 
 /* Products Grid */
@@ -43,8 +43,8 @@ body {
 
 .product-card {
   border: 1px solid #eee;
-  padding: 20px;
   text-align: center;
+  padding: 15px;
 }
 
 .product-card img {
@@ -52,17 +52,17 @@ body {
   height: auto;
 }
 
-/* Sections */
-.why-us, .contact {
+/* WhatsApp CTA */
+.contact {
   text-align: center;
   padding: 50px 20px;
-  background: #f9f9f9;
+  background-color: #f5f5f5;
 }
 
 /* Footer */
 footer {
   text-align: center;
   padding: 20px;
-  background: #0D0D0D;
-  color: #FFFFFF;
+  background-color: #222;
+  color: #fff;
 }
